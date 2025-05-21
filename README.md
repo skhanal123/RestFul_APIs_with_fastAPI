@@ -1,5 +1,5 @@
 ## This repository covers following topics
-### Creating REST API and perform various CRUD operation
-### Protecting APIs with JWT authentication
-### Automatic API documentation with swagger
-### Database queries and migration management using SQLAlchemy and Alembic
+1. Creating REST API and perform various CRUD operation
+2. Protecting APIs with JWT authentication
+3. Automatic API documentation with swagger
+4. Database queries and migration management using SQLAlchemy and Alembic
